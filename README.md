@@ -15,9 +15,9 @@ Une application Android intuitive pour découvrir des cocktails et garder sous l
 - **Asynchronisme :** Kotlin Coroutines
 
 ## 📸 Aperçu
-[/img/img01.png]
-[img02]
-[img03]
+![Cocktail 1](img/img01.png)
+![Cocktail 2](img/img02.png)
+![Cocktail 3](img/img03.png)]
 
 
 ## 📦 Installation
