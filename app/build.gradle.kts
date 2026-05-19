@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.isen.martini.therealonegreatestcocktailapp"
+        applicationId = "fr.isen.martini.thegreatestcocktailapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
