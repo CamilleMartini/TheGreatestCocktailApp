@@ -1,4 +1,4 @@
-package fr.isen.martini.therealonegreatestcocktailapp
+package fr.isen.martini.thegreatestcocktailapp
 
 import org.junit.Test
 

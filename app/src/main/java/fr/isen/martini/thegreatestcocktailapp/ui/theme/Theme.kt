@@ -1,4 +1,4 @@
-package fr.isen.martini.therealonegreatestcocktailapp.ui.theme
+package fr.isen.martini.thegreatestcocktailapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
